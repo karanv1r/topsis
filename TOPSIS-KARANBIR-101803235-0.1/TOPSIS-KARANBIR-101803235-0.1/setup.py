@@ -10,7 +10,7 @@ setuptools.setup(
   install_requires=['pandas'],
   packages=setuptools.find_packages(),   
   version = '0.1',      
-  license='TIETCOE',        
+  license='MIT',        
   description = 'PACKAGE DESIGNED FOR RANKING THE DATASET BY THEIR TOPSIS SCORE',   
   long_description=long_description,
   long_description_content_type="text/markdown",
